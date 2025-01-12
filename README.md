@@ -16,3 +16,9 @@ Click the "Submit" button.
 If your guess is too high or too low, you'll get a hint.
 If your guess is correct, you'll see a success message along with the number of attempts.
 Click the "Restart" button to play again.
+
+🎮 Demo
+Below is a snapshot of the Guess The Number Game in action:
+
+
+Demo.png
