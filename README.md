@@ -21,4 +21,4 @@ Click the "Restart" button to play again.
 Below is a snapshot of the Guess The Number Game in action:
 
 
-Demo.png
+(Demo.png)
